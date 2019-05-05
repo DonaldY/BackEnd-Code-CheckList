@@ -1,4 +1,4 @@
-后端代码审查清单
+# 后端代码审查清单
 
 
 参见前端：https://github.com/yujiangshui/front-end-code-checklist
@@ -21,7 +21,7 @@
 
 ## 思考
 
-前提：理解需求
+前提：充分理解需求
 
 ### 代码质量
 
